@@ -1,0 +1,6 @@
+[
+  { "name": "Home", "href": "#", "current": true },
+  { "name": "About", "href": "#", "current": false },
+  { "name": "Projects", "href": "#", "current": false },
+  { "name": "Blog", "href": "#", "current": false }
+]
